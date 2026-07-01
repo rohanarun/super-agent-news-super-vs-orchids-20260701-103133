@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[bbc.com](https://www.bbc.com/news/articles/cy4wnw04e8wo)",
+    "[aol.com](https://www.aol.com/articles/ai-coding-platforms-flaws-allow-001936532.html)",
+    "[vibegraveyard.ai](https://vibegraveyard.ai/story/orchids-vibe-coding-platform-zero-click-hack/)",
+    "[blog.google](https://blog.google)",
+    "[memeburn.com](https://memeburn.com)"
+  ],
+  "design_plan": "rng_seed=42; hero_lines=3; aida=pass; bento_density=grid-auto-flow:dense; label_sweep=pass; button_contrast=pass",
+  "generated_at": "2026-07-01T10:31:40.676212+00:00",
+  "headline": "Super vs Orchids \u2014 Personal AI Agents Compared",
+  "site_brief": {
+    "audience": "people comparing Super with Orchids",
+    "competitor": "Orchids",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Orchids. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Orchids AI agent",
+      "Orchids AI assistant",
+      "Orchids automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-orchids",
+    "title": "Super vs Orchids"
+  },
+  "summary": "A fair, evidence\u2011based comparison of Super and Orchids for people choosing a personal AI agent. Orchids popularised vibe\u2011coding and autonomous agents, but recent reporting highlights real security risks when agents have deep computer access. Super is positioned for people who want durable, repeatable computer\u2011use workflows, powered by a reusable computer-use cache that improves efficiency over time."
+}
